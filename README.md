@@ -215,7 +215,7 @@ View the predicted income class together with the prediction probabilities.
 Additional visualizations including ROC Curve, Precision–Recall Curve, and Confusion Matrix.
 
 ![Evaluation Charts](screenshots/Charts_Income_Prediction.png)
-![Evaluation Charts](screenshots/Charts_Income_Prediction(2).png)
+
 
 
 # 👤 Author
