@@ -190,7 +190,7 @@ Select a machine learning algorithm, configure training options, compare Unbalan
 
 Evaluate the trained model using performance metrics, confusion matrix, ROC curve, Precision–Recall curve, and feature importance.
 
-![Performance Dashboard](screenshots/performance_dashboard.png)
+![Performance Dashboard](screenshots/performancedashboard.png)
 
 ---
 
@@ -215,6 +215,8 @@ View the predicted income class together with the prediction probabilities.
 Additional visualizations including ROC Curve, Precision–Recall Curve, and Confusion Matrix.
 
 ![Evaluation Charts](screenshots/Charts_Income_Prediction.png)
+![Evaluation Charts](screenshots/Charts_Income_Prediction(2).png)
+
 
 # 👤 Author
 
