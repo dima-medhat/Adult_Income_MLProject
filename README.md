@@ -1,5 +1,10 @@
 # 💼 Adult Income Prediction
 
+# 💼 Adult Income Prediction
+
+🚀 **Live Demo:** https://your-app-name.streamlit.app
+
+
 A Streamlit web application that predicts whether an individual's annual income is **greater than 50K** or **less than or equal to 50K** using supervised machine learning. The application allows users to upload a dataset, train multiple classification models, compare their performance, and make real-time predictions through an interactive interface.
 
 ---
