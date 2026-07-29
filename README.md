@@ -160,18 +160,61 @@ Evaluate trained models using performance metrics, confusion matrix, ROC curve, 
 Enter feature values and predict whether annual income is greater than 50K or less than or equal to 50K.
 
 ---
+# 📷 Application Screenshots
 
-# 📷 Screenshots
+## 🏠 Home Page
 
-Add screenshots after deployment.
+The landing page introduces the project, available algorithms, and application workflow.
 
-- Home
-- Data Overview
-- Model Training
-- Performance Dashboard
-- Income Prediction
+![Home Page](screenshots/Home_Page.png)
 
 ---
+
+## 📊 Data Overview
+
+Explore the uploaded dataset, review summary statistics, inspect feature types, and analyze the target class distribution.
+
+![Data Overview](screenshots/Data_Overview_Page.png)
+
+---
+
+## ⚙️ Model Training
+
+Select a machine learning algorithm, configure training options, compare Unbalanced and SMOTE approaches, and train the model.
+
+![Model Training](screenshots/Model_Training.png)
+
+---
+
+## 📈 Performance Dashboard
+
+Evaluate the trained model using performance metrics, confusion matrix, ROC curve, Precision–Recall curve, and feature importance.
+
+![Performance Dashboard](screenshots/performance_dashboard.png)
+
+---
+
+## 🎯 Income Prediction
+
+Enter feature values to predict whether an individual's annual income is greater than 50K or less than or equal to 50K.
+
+![Income Prediction](screenshots/Income_Prediction_Page.png)
+
+---
+
+## 📋 Prediction Results
+
+View the predicted income class together with the prediction probabilities.
+
+![Prediction Results](screenshots/Income_Prediction_Results.png)
+
+---
+
+## 📊 Model Evaluation Charts
+
+Additional visualizations including ROC Curve, Precision–Recall Curve, and Confusion Matrix.
+
+![Evaluation Charts](screenshots/Charts_Income_Prediction.png)
 
 # 👤 Author
 
