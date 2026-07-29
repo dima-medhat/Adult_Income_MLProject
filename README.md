@@ -190,7 +190,7 @@ Select a machine learning algorithm, configure training options, compare Unbalan
 
 Evaluate the trained model using performance metrics, confusion matrix, ROC curve, Precision–Recall curve, and feature importance.
 
-![Performance Dashboard](screenshots/performance dashboard.png)
+![Performance Dashboard](screenshots/performance_dashboard.png)
 
 ---
 
