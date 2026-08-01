@@ -216,10 +216,3 @@ Additional visualizations including ROC Curve, Precision–Recall Curve, and Con
 
 ![Evaluation Charts](screenshots/Charts_Income_Prediction.png)
 
-
-
-# 👤 Author
-
-**Dima M. AlShurafa**
-
-Machine Learning & Data Analytics
